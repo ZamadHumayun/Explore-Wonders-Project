@@ -1,4 +1,5 @@
 ExploreWonders - Travel Agency Landing Page
+
 A modern and fully responsive landing page for a fictional travel agency. This project showcases a clean design with several interactive features, built entirely with vanilla HTML, CSS, and JavaScript.
 
 Key Features
